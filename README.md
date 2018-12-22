@@ -1,5 +1,5 @@
 # Instalasi tool2 yang diperlukan
-Panduan program fuzzy logic controller dalam bahasa Indonesia
+Panduan program fuzzy logic controller dalam bahasa Indonesia\
 Code dapat dilihat di branch source_code dan principle_code
 
 Saya menggunakan bahasa Python untuk membuat program ini, tata cara menginstall Python dapat dilihat di
