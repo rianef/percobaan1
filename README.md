@@ -4,8 +4,7 @@ Contoh kode dapat dilihat di branch source_code dan principle_code
 
 # Instalasi tool2 yang diperlukan
 
-Saya menggunakan bahasa Python untuk membuat program ini, tata cara menginstall Python dapat dilihat di
-https://www.python.org/downloads/
+Saya menggunakan bahasa Python untuk membuat program ini, tata cara menginstall Python dapat dilihat [disini](https://www.python.org/downloads/)
 
 Setelah instalasi Python selesai, saatnya menginstall library2 Python yang akan dibutuhkan dengan mengetik command2 berikut di Command Prompt (Windows) atau Terminal (MacOS):\
 ```
