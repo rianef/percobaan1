@@ -20,6 +20,10 @@ library skfuzzy adalah kumpulan function fuzzy logic untuk bahasa Python\
 pip install matplotlib
 ```
 library matplotlib digunakan untuk plotting hasil dalam bentuk visual (gambar)\
+```
+pip install PyQt5
+```
+PyQt5 akan digunakan untuk membangun GUI program kita\
 
 # Mulai coding
 
