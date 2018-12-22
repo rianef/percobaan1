@@ -11,15 +11,15 @@ Setelah instalasi Python selesai, saatnya menginstall library2 Python yang akan 
 ```
 pip install numpy
 ```
-Library numpy adalah kumpulan function perhitungan dasar untuk bahasa Python\
+Library `numpy` adalah kumpulan function perhitungan dasar untuk bahasa Python\
 ```
 pip install skfuzzy
 ```
-library skfuzzy adalah kumpulan function fuzzy logic untuk bahasa Python\
+Library `skfuzzy` adalah kumpulan function fuzzy logic untuk bahasa Python\
 ```
 pip install matplotlib
 ```
-library matplotlib digunakan untuk plotting hasil dalam bentuk visual (gambar)\
+Library `matplotlib` digunakan untuk plotting hasil dalam bentuk visual (gambar)\
 ```
 pip install PyQt5
 ```
