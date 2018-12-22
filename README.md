@@ -1,4 +1,4 @@
-# fuzzy_logic_controller
+# Instalasi tool2 yang diperlukan
 Panduan program fuzzy logic controller dalam bahasa Indonesia
 Code dapat dilihat di branch source_code dan principle_code
 
@@ -21,3 +21,8 @@ library skfuzzy adalah kumpulan function fuzzy logic untuk bahasa Python
 pip install matplotlib
 ```
 library matplotlib digunakan untuk plotting hasil dalam bentuk visual (gambar)
+
+
+# Mulai coding
+
+Dimulai dari deklarasi universe dari variabel kita
